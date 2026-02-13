@@ -1,0 +1,7 @@
+# 
+pyscf
+matplotlib
+jaxkan @ git+https://github.com/srigas/jaxkan.git@v1.0.8
+netket @ git+https://github.com/netket/netket.git@v3.15.2
+jax[cpu]==0.4.28
+equinox==0.11.10
