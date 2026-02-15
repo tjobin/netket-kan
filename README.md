@@ -20,7 +20,7 @@ Prerequisites:
 * [NetKet](https://www.netket.org/) - Machine learning framework for quantum many-body problems.
 * [JAX](https://github.com/google/jax) - Autograd and XLA for high-performance ML research.
 * [Flax](https://github.com/google/flax) - A neural network library for JAX.
-* [jaxKANn](https://github.com/srigas/jaxKAN) - A machine learning library designed to allow Kolmogorov-Arnold Networks in JAX.
+* [jaxKAN](https://github.com/srigas/jaxKAN) - A machine learning library designed to allow Kolmogorov-Arnold Networks in JAX.
 
 
 ```
