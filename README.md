@@ -8,7 +8,7 @@
 netket-kan is the result of a semester project in Giuseppe Carleo's Computational Quantum Physics Lab under the supervision of David Linteau. It aimed at integrating Kolmogorov-Arnold Networks (KANs) into the [NetKet](https://github.com/netket/netket) framework, enabling their use as variational ansatzes for Variational Monte Carlo (VMC) simulations of molecular systems.
 
 #### Disclaimers:
-  - David Linteau (@dalin27) wrote the vast majority of the code and had the kindness to share it with me
+  - David Linteau (@dalin27) wrote the majority of the code and had the kindness to share it with me
   - The actual Neural-Network Quantum States used in this project are not available on this repository, the corresponding publication not being yet published
 
 ---
